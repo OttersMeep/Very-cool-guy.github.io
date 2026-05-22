@@ -27,6 +27,27 @@
         background-attachment: fixed;
       }
     </style>
+    <script src="https://cdn.babylonjs.com/babylon.js"></script>
+    <script src="https://cdn.babylonjs.com/loaders/babylonjs.loaders.js"></script>
+    <style>
+      #niko-canvas {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        z-index: 1;
+        pointer-events: none;
+        background: transparent;
+      }
+      body > * {
+        position: relative;
+        z-index: 2;
+      }
+      body {
+        background-attachment: fixed;
+      }
+    </style>
   </head>
   <body>
     <!-- yes hello this is cracktorio, niko will be rotating. Do not kill her pls 😢-->
