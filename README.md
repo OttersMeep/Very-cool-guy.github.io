@@ -1,2 +1,10 @@
 # Very-cool-guy.github.io
 this is a website that everybody can change!!!
+
+Check out the website at https://very-cool-guy.github.io
+
+Check out [the post](https://www.reddit.com/r/whenthe/comments/1tk7a71) that started it all!
+
+Check out your library books and return them on time!
+
+`git checkout`!
